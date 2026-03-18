@@ -81,6 +81,7 @@ void SoftRenderer::Update2D(float InDeltaSeconds)
 	// 물체의 최종 상태 설정
 	currentPosition += deltaPosition;
 	currentScale = Math::Lerp(scaleMin, scaleMax, alpha);
+	// 깃허브 테스트
 }
 
 // 렌더링 로직을 담당하는 함수
