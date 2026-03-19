@@ -1,3 +1,5 @@
 /Source/Player/Res/*.aps
 /Project
 /Output
+/.vs
+/out
